@@ -53,8 +53,7 @@ namespace Recursive
 }
 
 ```
-# Output: 
-![c7](https://github.com/Gayathriraj18/Recursive-function/assets/94154854/17bb8eb2-5cd2-4f71-ac74-49df6acc2e75)
+# Output: ![c7](https://github.com/Gayathriraj18/Recursive-function/assets/94154854/17bb8eb2-5cd2-4f71-ac74-49df6acc2e75)
 
 # Result:
 
